@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "file": "data/vmd_guest.csv",
+      "head": 1,
+      "partition": 16,
+      "table_name": "vmd_guest",
+      "namespace": "experiment",
+      "count": 3000
+    },
+    {
+      "file": "data/vmd_host.csv",
+      "head": 1,
+      "partition": 16,
+      "table_name": "vmd_host",
+      "namespace": "experiment",
+      "count": 3000
+    },
+    {
+      "file": "data/vmd_host2.csv",
+      "head": 1,
+      "partition": 16,
+      "table_name": "vmd_host2",
+      "namespace": "experiment",
+      "count": 3000
+    },
+    {
+      "file": "data/vmd_null_host.csv",
+      "head": 1,
+      "partition": 16,
+      "table_name": "vmd_null_host",
+      "namespace": "experiment",
+      "count": 3000
+    },
+    {
+      "file": "data/vmd_guest_full.csv",
+      "head": 1,
+      "partition": 16,
+      "table_name": "vmd_guest_full",
+      "namespace": "experiment",
+      "count": 3000
+    }
+  ]
+}

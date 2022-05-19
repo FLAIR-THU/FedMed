@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "file": "CNN/data/zs_c2_guest.csv",
+            "head": 1,
+            "partition": 16,
+            "table_name": "zs_c2_guest",
+            "namespace": "experiment",
+            "role": "guest_0"
+        },
+        {
+            "file": "CNN/data/zs_c2_host.csv",
+            "head": 1,
+            "partition": 16,
+            "table_name": "zs_c2_host",
+            "namespace": "experiment",
+            "role": "host_0"
+        },
+        {
+            "file": "CNN/data/zs_c2_guest_org.csv",
+            "head": 1,
+            "partition": 16,
+            "table_name": "zs_c2_guest_org",
+            "namespace": "experiment",
+            "role": "guest_0"
+        },
+        {
+            "file": "CNN/data/zs_c2_host_org.csv",
+            "head": 1,
+            "partition": 16,
+            "table_name": "zs_c2_host_org",
+            "namespace": "experiment",
+            "role": "host_0"
+        },
+        {
+            "file": "CNN/data/zs_c2_host2.csv",
+            "head": 1,
+            "partition": 16,
+            "table_name": "zs_c2_host2",
+            "namespace": "experiment",
+            "role": "host_0"
+        },
+        {
+            "file": "CNN/data/zs_c2_host_fake.csv",
+            "head": 1,
+            "partition": 16,
+            "table_name": "zs_c2_host_fake",
+            "namespace": "experiment",
+            "role": "host_0"
+        }
+    ]
+}
